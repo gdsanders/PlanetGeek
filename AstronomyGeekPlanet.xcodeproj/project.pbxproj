@@ -7,25 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		632FBFD01BAB70EB005B6488 /* AGPSpaceObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 632FBFCF1BAB70EB005B6488 /* AGPSpaceObject.m */; settings = {ASSET_TAGS = (); }; };
+		633C892C1BAA304100A7CF70 /* AstronomicalData.m in Sources */ = {isa = PBXBuildFile; fileRef = 633C892B1BAA304100A7CF70 /* AstronomicalData.m */; };
+		634114991BB1E0670001538A /* SpaceImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 634114981BB1E0670001538A /* SpaceImageViewController.m */; settings = {ASSET_TAGS = (); }; };
+		634114C21BB25A290001538A /* SpaceDataViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 634114C11BB25A290001538A /* SpaceDataViewController.m */; settings = {ASSET_TAGS = (); }; };
 		634656891BA7B9EE00BB6206 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 634656881BA7B9EE00BB6206 /* main.m */; };
 		6346568C1BA7B9EE00BB6206 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6346568B1BA7B9EE00BB6206 /* AppDelegate.m */; };
-		6346568F1BA7B9EE00BB6206 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6346568E1BA7B9EE00BB6206 /* ViewController.m */; };
 		634656921BA7B9EE00BB6206 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 634656901BA7B9EE00BB6206 /* Main.storyboard */; };
 		634656941BA7B9EE00BB6206 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 634656931BA7B9EE00BB6206 /* Assets.xcassets */; };
 		634656971BA7B9EE00BB6206 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 634656951BA7B9EE00BB6206 /* LaunchScreen.storyboard */; };
+		634656A01BA7BDA100BB6206 /* AGPTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6346569F1BA7BDA100BB6206 /* AGPTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		632FBFCE1BAB70EB005B6488 /* AGPSpaceObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AGPSpaceObject.h; sourceTree = "<group>"; };
+		632FBFCF1BAB70EB005B6488 /* AGPSpaceObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AGPSpaceObject.m; sourceTree = "<group>"; };
+		633C892A1BAA304100A7CF70 /* AstronomicalData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AstronomicalData.h; sourceTree = "<group>"; };
+		633C892B1BAA304100A7CF70 /* AstronomicalData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AstronomicalData.m; sourceTree = "<group>"; };
+		634114971BB1E0670001538A /* SpaceImageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpaceImageViewController.h; sourceTree = "<group>"; };
+		634114981BB1E0670001538A /* SpaceImageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpaceImageViewController.m; sourceTree = "<group>"; };
+		634114C01BB25A290001538A /* SpaceDataViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpaceDataViewController.h; sourceTree = "<group>"; };
+		634114C11BB25A290001538A /* SpaceDataViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpaceDataViewController.m; sourceTree = "<group>"; };
 		634656841BA7B9EE00BB6206 /* AstronomyGeekPlanet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AstronomyGeekPlanet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		634656881BA7B9EE00BB6206 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6346568A1BA7B9EE00BB6206 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6346568B1BA7B9EE00BB6206 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		6346568D1BA7B9EE00BB6206 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		6346568E1BA7B9EE00BB6206 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		634656911BA7B9EE00BB6206 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		634656931BA7B9EE00BB6206 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		634656961BA7B9EE00BB6206 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		634656981BA7B9EE00BB6206 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6346569E1BA7BDA100BB6206 /* AGPTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AGPTableViewController.h; sourceTree = "<group>"; };
+		6346569F1BA7BDA100BB6206 /* AGPTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AGPTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +72,15 @@
 			children = (
 				6346568A1BA7B9EE00BB6206 /* AppDelegate.h */,
 				6346568B1BA7B9EE00BB6206 /* AppDelegate.m */,
-				6346568D1BA7B9EE00BB6206 /* ViewController.h */,
-				6346568E1BA7B9EE00BB6206 /* ViewController.m */,
 				634656901BA7B9EE00BB6206 /* Main.storyboard */,
+				6346569E1BA7BDA100BB6206 /* AGPTableViewController.h */,
+				6346569F1BA7BDA100BB6206 /* AGPTableViewController.m */,
+				634114971BB1E0670001538A /* SpaceImageViewController.h */,
+				634114981BB1E0670001538A /* SpaceImageViewController.m */,
+				634114C01BB25A290001538A /* SpaceDataViewController.h */,
+				634114C11BB25A290001538A /* SpaceDataViewController.m */,
+				632FBFCE1BAB70EB005B6488 /* AGPSpaceObject.h */,
+				632FBFCF1BAB70EB005B6488 /* AGPSpaceObject.m */,
 				634656931BA7B9EE00BB6206 /* Assets.xcassets */,
 				634656951BA7B9EE00BB6206 /* LaunchScreen.storyboard */,
 				634656981BA7B9EE00BB6206 /* Info.plist */,
@@ -74,6 +92,8 @@
 		634656871BA7B9EE00BB6206 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				633C892A1BAA304100A7CF70 /* AstronomicalData.h */,
+				633C892B1BAA304100A7CF70 /* AstronomicalData.m */,
 				634656881BA7B9EE00BB6206 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -150,9 +170,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6346568F1BA7B9EE00BB6206 /* ViewController.m in Sources */,
+				632FBFD01BAB70EB005B6488 /* AGPSpaceObject.m in Sources */,
 				6346568C1BA7B9EE00BB6206 /* AppDelegate.m in Sources */,
 				634656891BA7B9EE00BB6206 /* main.m in Sources */,
+				634656A01BA7BDA100BB6206 /* AGPTableViewController.m in Sources */,
+				633C892C1BAA304100A7CF70 /* AstronomicalData.m in Sources */,
+				634114991BB1E0670001538A /* SpaceImageViewController.m in Sources */,
+				634114C21BB25A290001538A /* SpaceDataViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,9 +289,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = AstronomyGeekPlanet/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.DigitalEquity.AstronomyGeekPlanet;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -276,9 +302,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = AstronomyGeekPlanet/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.DigitalEquity.AstronomyGeekPlanet;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -301,6 +329,7 @@
 				6346569D1BA7B9EE00BB6206 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
