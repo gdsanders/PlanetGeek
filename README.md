@@ -1,2 +1,2 @@
 # PlanetGeek
-Objective-C practice program with planet data and images
+Objective-C practice program with planet data and images with Xcode repository
