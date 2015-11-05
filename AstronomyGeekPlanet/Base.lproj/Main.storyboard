@@ -5,7 +5,7 @@
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
-        <!--Planets-->
+        <!--PlanetGeek-->
         <scene sceneID="VuM-Qn-HBL">
             <objects>
                 <tableViewController id="HDo-NQ-AGi" customClass="AGPTableViewController" sceneMemberID="viewController">
@@ -52,7 +52,7 @@
                             <outlet property="delegate" destination="HDo-NQ-AGi" id="UkO-Ay-bzm"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Planets" id="4yf-xn-YSk"/>
+                    <navigationItem key="navigationItem" title="PlanetGeek" id="4yf-xn-YSk"/>
                     <connections>
                         <segue destination="r1r-N1-4Mo" kind="show" identifier="pushToSpaceData" id="shG-z3-fyE"/>
                     </connections>
