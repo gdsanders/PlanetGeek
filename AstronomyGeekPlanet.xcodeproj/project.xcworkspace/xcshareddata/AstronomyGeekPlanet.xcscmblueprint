@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "96E558B67DB377B378E0B5F8111D34F135BE4CA8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F9CC67509CCAD14F13F9B1B22CE8859B18343479" : 0,
+    "96E558B67DB377B378E0B5F8111D34F135BE4CA8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "337BF3BA-650F-414C-B47D-A1C78DF5FD55",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F9CC67509CCAD14F13F9B1B22CE8859B18343479" : "AstronomyGeekPlanet\/AstronomyGeekPlanet\/",
+    "96E558B67DB377B378E0B5F8111D34F135BE4CA8" : "AstronomyGeekPlanet\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AstronomyGeekPlanet",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AstronomyGeekPlanet.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gdsanders\/PlanetGeek.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "96E558B67DB377B378E0B5F8111D34F135BE4CA8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gdsanders\/AstronomyGeekPlanet.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F9CC67509CCAD14F13F9B1B22CE8859B18343479"
+    }
+  ]
+}
